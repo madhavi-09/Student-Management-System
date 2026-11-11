@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Java compiled files
+target/
+*.class
+
+# Environment variables
+.env
+
+# IDE files
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
